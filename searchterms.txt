@@ -1,0 +1,7 @@
+RepA
+RepB
+RepC
+conjugative
+TraB
+TraA
+TraC
