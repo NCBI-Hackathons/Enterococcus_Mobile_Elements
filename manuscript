@@ -1,0 +1,8 @@
+Introduction
+Infections caused by Enterococcus spp. present a major threat to public health as a leading cause of nosocomial infections. One major contributor to its effectiveness as a pathogen is its frequent resistance to antimicrobial therapy. The association of resistance with mobile elements is of particular concern, as this can result in the rapid spread of AMR to previously susceptible isolates. Thus, the development of tools to identify mobile elements and their association with resistance genes will fill an important gap in current knowledge and provide a useful resource for research and public health.
+
+Methods
+We downloaded 15,000 Enterococcus faecalis and Enterococcus faecium sequences from the SRA database. Short reads were assembled using SKESA, with AMRFinder used to identify resistance genes. Genomes were annotated using the Prokaryotic Genome Annotation Pipeline (PGAP) version 4.8. BLAST analysis was used to identify plasmid signatures, by comparing to known plasmid replication origin sequences. Transposon sequences were also identified by BLAST analysis. Annotations were also searched for terms associated with mobile elements, including: repA, repB, repC, traA, traB, traC, and conjugative. Assembled sequences were also compared to a set of known reference Enterococcus plasmids to ensure validity of the BLAST analysis detailed above. 
+
+Results
+We identified x putative plasmids and transposons among the sequences, with x% associated with resistance genes. 
