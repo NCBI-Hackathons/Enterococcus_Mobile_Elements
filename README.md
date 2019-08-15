@@ -9,6 +9,8 @@ To develop a tool for tracking AMR genes in mobile elements, using enterococci a
 
 ## Implementation
 
+We ran a modified version of AMRFinder designed to identify mobile elements from a custom database. An example from a report from the analysis is listed below.
+
 ## Mock report
 
 ![image](image4.png)
