@@ -3,7 +3,7 @@ Development of a Tool for Tracking AMR Genes in Mobile Elements using Enterococc
 
 ## Purpose
 
-
+To identify mobile elements in Enterococcus and associate them with antimicrobial resistance determinants.
 
 ## Workflow
 ![image](image1.png)
