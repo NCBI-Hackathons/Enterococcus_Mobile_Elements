@@ -10,3 +10,7 @@ To develop a tool for tracking AMR genes in mobile elements, using enterococci a
 ## Mock report
 
 ![image](image4.png)
+
+## Future directions
+
+Incorporate tool into NCBI Pathogen Detection Pipeline, and expand to additional bacterial genera.
