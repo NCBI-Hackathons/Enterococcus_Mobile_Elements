@@ -5,7 +5,7 @@
 To develop a tool for tracking AMR genes in mobile elements, using enterococci as an example.
 
 ## Workflow
-![image](image1.png)
+![image](image5.png)
 
 ## Mock report
 
